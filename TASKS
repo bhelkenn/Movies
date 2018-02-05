@@ -1,0 +1,4 @@
+Tasks:
+1. Find a way to remove Movie *results from Database class and pass it around instead
+2. Upon completion of 1) test crashing issues during metadata search
+3. Work on "similar movies" feature
